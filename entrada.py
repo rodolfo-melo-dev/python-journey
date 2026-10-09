@@ -8,3 +8,4 @@ input (f'Hola {nombre}')
 edad = int(input('¿Cuántos años tienes? '))
 print(f'{nombre} en 10 ños tendrás {edad + 10}')
 
+
