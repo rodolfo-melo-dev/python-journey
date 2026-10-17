@@ -1,13 +1,15 @@
-# ==================================
-# Ejercicio 1: tabla_multiplicar.py
-# ==================================
+# =================================
+# Ejercicio : tabla_multiplicar.py
+# =================================
 
-print('---\nEjercicio 1: Tabla de multiplicar---')
+print('\nTABLA DE MULTIPLICAR')
 
-numero = int(input('Ingresa la tabla que quieres conocer: '))
+i = 0
+
+tabla = int(input('\nIngresa la tabla de multiplicar que quieres ver: '))
+
 
 for i in range(1, 11):
-    print(f'{numero} x {i} = {numero * i}')
-
-
+    
+    print(f'{tabla} * {i} = {tabla * i}')
 
