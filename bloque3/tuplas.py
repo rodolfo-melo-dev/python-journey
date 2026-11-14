@@ -11,7 +11,7 @@ print(len(dimensiones))
 
 # == Ejercicio 2 ==
 
-# 0dimensiones[0] = 1280
+# dimensiones[0] = 1280
 
 # == Ejercicio 3 ==
 
@@ -29,4 +29,3 @@ meses = ('enero', 'febrero', 'marzo', 'abril')
 
 for mes in meses:
     print(f'Este mes es {mes}')
-    
